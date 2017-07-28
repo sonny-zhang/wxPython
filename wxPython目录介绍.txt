@@ -1,0 +1,9 @@
+1,下面是wxPython模块的学习代码：
+HelloWorld.py、Editor_1.py、Editor_2.py、Editor_3.py、Editor_4.py
+2,下面是对Editor_2.py代码的步骤描述
+3,下面是画矩形的代码：
+RectAngle.py
+4,下面是画三角形的代码：
+Triangle.py
+5,下面是制作计算器的代码：
+calculator.py
